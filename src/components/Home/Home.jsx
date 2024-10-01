@@ -5,6 +5,13 @@ import profilePicture from "../../assets/ProfilePicture.jpg";
 function Home() {
   return (
     <Stack className="homePage">
+      <Typography
+        fontFamily={"monospace"}
+        variant="h3"
+        sx={{ fontSize: { xs: "1.5rem", md: "2rem" } }}
+      >
+        <b>Junior Software Engineer</b>
+      </Typography>
       <img
         src={profilePicture}
         alt="Anton Rezin Junior Software Developer Portfolio Website."

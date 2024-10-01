@@ -4,9 +4,8 @@ html, body {
     padding: 0;
     height: 100%;
     width: 100%;
-    overflow: hidden;
+    overflow: auto;
 }
-
 
 .animated-gradient {
     position: absolute;
@@ -14,7 +13,7 @@ html, body {
     left: 0;
     height: 100%;
     width: 100%;
-    background: linear-gradient(45deg, #8c52ff, #ff914d); /* Bright Green to Dark Purple */
+    background: linear-gradient(45deg, #8c52ff, #ff914d);
     background-size: 400% 400%;
     animation: gradient-animation 10s ease infinite;
     z-index: -10;
@@ -29,5 +28,13 @@ html, body {
     }
     100% {
         background-position: 0% 50%;
+    }
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+    /* Adjust any necessary styles for smaller screens */
+    html, body {
+        overflow-x: hidden; /* Prevent horizontal overflow */
     }
 }
