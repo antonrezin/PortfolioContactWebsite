@@ -18,8 +18,11 @@ function Home() {
       >
         Hi, I'm Anton Rezin!
         <br /> <br />
-        I’m a Junior Full Stack Developer with a passion for creating seamless
-        digital experiences.
+        I’m a <b>Junior Full Stack Developer</b> from the
+        <br />
+        <b>Helsinki Metropolitan Area</b>
+        <br />
+        with a passion for creating seamless digital experiences.
         <br />
         Whether it’s building intuitive user interfaces or developing robust
         backend systems, I enjoy bringing ideas to life through clean, efficient
