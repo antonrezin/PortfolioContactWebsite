@@ -1,5 +1,5 @@
 import { Box, Stack, Typography } from "@mui/material";
-import profilePicture from "/public/assets/ProfilePicture.jpg";
+import profilePicture from "/assets/ProfilePicture.jpg";
 import SimCardDownloadIcon from "@mui/icons-material/SimCardDownload";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";
@@ -55,7 +55,7 @@ function Home() {
         }}
       >
         <a
-          href="/public/assets/CV_and_Cover_Letter_Anton_Rezin_for_Software_Developer_Role.pdf"
+          href="/assets/CVandCoverLetter.pdf"
           download
           style={{ color: "#ffffff" }}
         >
