@@ -69,6 +69,18 @@ const theme = createTheme({
         },
       },
     },
+    MuiSvgIcon: {
+      styleOverrides: {
+        root: {
+          fontSize: "3rem",
+          transition: "transform 0.3s ease, color 0.3s ease",
+          "&:hover": {
+            transform: "scale(1.2)",
+            color: "#ffffff",
+          },
+        },
+      },
+    },
   },
 });
 
