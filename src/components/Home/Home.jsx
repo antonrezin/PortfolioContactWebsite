@@ -1,6 +1,5 @@
 import { Box, Stack, Typography } from "@mui/material";
 import profilePicture from "/assets/ProfilePicture.jpg";
-import SimCardDownloadIcon from "@mui/icons-material/SimCardDownload";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";
 
