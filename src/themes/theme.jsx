@@ -43,8 +43,6 @@ const theme = createTheme({
     MuiStack: {
       styleOverrides: {
         root: {
-          display: "flex",
-          flexDirection: "column",
           justifyContent: "center",
           alignItems: "center",
           height: "100vh",
