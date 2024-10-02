@@ -1,7 +1,7 @@
 {
   "homepage": "http://antonrezin.github.io/antonrezin/PortfolioContactWebsite",
   "name": "anton-rezin-portfolio-website",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
