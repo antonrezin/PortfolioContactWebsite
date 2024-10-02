@@ -1,4 +1,3 @@
-/* App.css */
 html, body {
     margin: 0;
     padding: 0;
@@ -28,13 +27,5 @@ html, body {
     }
     100% {
         background-position: 0% 50%;
-    }
-}
-
-/* Media Queries for Responsiveness */
-@media (max-width: 768px) {
-    /* Adjust any necessary styles for smaller screens */
-    html, body {
-        overflow-x: hidden; /* Prevent horizontal overflow */
     }
 }
