@@ -24,7 +24,7 @@ function Home() {
         textAlign={"center"}
         variant="h6"
       >
-        Hi, I'm Anton Rezin!
+        <b>Hi, I'm Anton Rezin!</b>
       </Typography>
       <Typography
         fontFamily={"monospace"}
@@ -32,14 +32,15 @@ function Home() {
         textAlign={"center"}
         variant="h6"
       >
-        I’m a Junior Full Stack Developer from the Helsinki Metropolitan Area
-        with a passion for creating seamless digital experiences. Whether it’s
-        building intuitive user interfaces or developing robust backend systems,
-        I enjoy bringing ideas to life through clean, efficient code. My
-        expertise spans both backend and frontend development, allowing me to
-        create well-rounded applications that deliver exceptional user
-        experiences. Currently finishing my degree in Full Stack Development,
-        I’m eager to apply my skills in real-world projects and collaborate with
+        I’m a <b>Junior Full Stack Developer</b> from the{" "}
+        <b>Helsinki Metropolitan Area</b> with a passion for creating seamless
+        digital experiences. Whether it’s building intuitive user interfaces or
+        developing robust backend systems, I enjoy bringing ideas to life
+        through clean, efficient code. My expertise spans both{" "}
+        <b>backend and frontend development</b>, allowing me to create
+        well-rounded applications that deliver exceptional user experiences.
+        Currently finishing my degree in <b>Full Stack Development</b>, I’m
+        eager to apply my skills in real-world projects and collaborate with
         teams that value innovation and quality.
       </Typography>
       <Typography
@@ -49,7 +50,7 @@ function Home() {
         variant="h6"
       >
         {" "}
-        Let’s create something extraordinary together!
+        <b>Let’s create something extraordinary together!</b>
       </Typography>
     </Stack>
   );
