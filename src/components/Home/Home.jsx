@@ -55,13 +55,6 @@ function Home() {
         }}
       >
         <a
-          href="/assets/CVandCoverLetter.pdf"
-          download
-          style={{ color: "#ffffff" }}
-        >
-          <SimCardDownloadIcon sx={{ fontSize: "5rem" }} />
-        </a>
-        <a
           href="https://www.linkedin.com/in/antonrezin/"
           target="_blank"
           rel="noopener noreferrer"
