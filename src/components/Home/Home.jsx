@@ -90,16 +90,11 @@ function Home() {
           maxWidth: "700px",
         }}
       >
-        I’m a <b>Junior Full Stack Developer</b> from the{" "}
-        <b>Helsinki Metropolitan Area</b> with a passion for creating seamless
-        digital experiences. Whether it’s building intuitive user interfaces or
-        developing robust backend systems, I enjoy bringing ideas to life
-        through clean, efficient code. My expertise spans both{" "}
-        <b>backend and frontend development</b>, allowing me to create
-        well-rounded applications that deliver exceptional user experiences.
-        Currently finishing my degree in <b>Full Stack Development</b>, I’m
-        eager to apply my skills in real-world projects and collaborate with
-        teams that value innovation and quality.
+        I’m a Junior Full Stack Developer from the Helsinki Metropolitan Area
+        with a passion for creating seamless digital experiences. Skilled in
+        both backend and frontend development, I build efficient, user-friendly
+        applications. As I finish my Full Stack Development degree, I’m excited
+        to apply my skills in real-world projects.
       </Typography>
 
       <Typography
