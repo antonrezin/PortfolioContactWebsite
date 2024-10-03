@@ -6,12 +6,12 @@ html, body {
 }
 
 html {
-    overflow: auto;
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
 
 body {
-    overflow-x: hidden;
-    overflow-y: hidden;
+    overflow: auto;
 }
 
 .animated-gradient {
