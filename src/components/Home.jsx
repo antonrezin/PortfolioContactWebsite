@@ -28,8 +28,8 @@ function Home() {
         alt="Anton Rezin Junior Software Developer Portfolio Website."
         style={{
           width: "100%",
-          maxWidth: "300px",
-          maxHeight: "300px",
+          maxWidth: "200px",
+          maxHeight: "200px",
           borderRadius: "50%",
           border: "5px solid #000000",
         }}
@@ -37,7 +37,7 @@ function Home() {
 
       <Typography
         fontFamily={"monospace"}
-        variant="h3"
+        variant="h4"
         fontWeight={"bold"}
         textAlign={"center"}
       >
