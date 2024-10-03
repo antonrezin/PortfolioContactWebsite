@@ -50,7 +50,7 @@ function Home() {
         </a>
 
         <a href="https://github.com/antonrezin" target="_blank">
-          <GitHubIcon sx={{ fontSize: "6rem", color: "action.active" }} />
+          <GitHubIcon sx={{ fontSize: "6rem", color: "black" }} />
         </a>
       </Stack>
 
