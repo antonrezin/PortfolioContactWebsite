@@ -20,7 +20,7 @@ function Home() {
         fontWeight={"bold"}
         textAlign={"center"}
       >
-        Junior Software Engineer
+        Junior Software Developer
       </Typography>
 
       <img
