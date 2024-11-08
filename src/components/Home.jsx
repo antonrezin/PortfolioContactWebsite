@@ -70,7 +70,7 @@ function Home() {
         textAlign={"center"}
         maxWidth={"1600px"}
       >
-        I’m a Junior Full Stack Developer from the Helsinki Metropolitan Area
+        I’m a Aspiring Full Stack Developer from the Helsinki Metropolitan Area
         with a passion for creating seamless digital experiences.
         <br />
         Whether it’s building intuitive user interfaces or developing robust
