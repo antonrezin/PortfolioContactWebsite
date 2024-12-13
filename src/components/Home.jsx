@@ -66,7 +66,7 @@ function Home() {
       <br />
       <Typography
         fontFamily={"monospace"}
-        variant="h6"
+        variant="h5"
         fontWeight={"bold"}
         textAlign={"center"}
         maxWidth={"1000px"}
