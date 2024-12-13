@@ -88,7 +88,7 @@ function Home() {
         Software Developer Intern through Herizon. Having completed my
         coursework, I am currently focused on my internship and thesis before
         graduation. After my internship, I will be open to full-time
-        opportunities starting approximately from March 3rd.
+        opportunities starting approximately from March 3rd
       </Typography>
       <br />
       <Typography
