@@ -59,7 +59,7 @@ function Home() {
         variant="h4"
         fontWeight={"bold"}
         textAlign={"center"}
-        maxWidth={"1200px"}
+        maxWidth={"1000px"}
       >
         Hi, I’m Anton Rezin!
       </Typography>
@@ -69,7 +69,7 @@ function Home() {
         variant="h5"
         fontWeight={"bold"}
         textAlign={"center"}
-        maxWidth={"1200px"}
+        maxWidth={"1000px"}
       >
         I’m an aspiring Full Stack Developer from the Helsinki Metropolitan
         Area, passionate about crafting seamless digital experiences. I
@@ -98,7 +98,7 @@ function Home() {
         variant="h4"
         fontWeight={"bold"}
         textAlign={"center"}
-        maxWidth={"1200px"}
+        maxWidth={"1000px"}
       >
         Let’s create something extraordinary together!
       </Typography>
