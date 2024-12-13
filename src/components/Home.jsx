@@ -10,7 +10,7 @@ function Home() {
       sx={{
         justifyContent: "center",
         alignItems: "center",
-        paddingX: 1,
+        paddingX: 5,
         paddingY: 10,
       }}
     >
@@ -59,36 +59,33 @@ function Home() {
         variant="h4"
         fontWeight={"bold"}
         textAlign={"center"}
-        maxWidth={"1200px"}
+        maxWidth={"1000px"}
       >
         Hi, I’m Anton Rezin!
       </Typography>
       <br />
       <Typography
         fontFamily={"monospace"}
-        variant="h5"
+        variant="h6"
         fontWeight={"bold"}
         textAlign={"center"}
-        maxWidth={"1200px"}
+        maxWidth={"1000px"}
       >
-        I’m an aspiring Full Stack Developer from the Helsinki Metropolitan Area
-        with a passion for crafting seamless digital experiences. I specialize
-        in building intuitive user interfaces and robust backend systems,
-        focusing on scalable, efficient solutions.
+        A Full Stack Developer from the Helsinki Metropolitan Area, specializing
+        in creating seamless digital experiences from intuitive UIs to scalable
+        backend systems.
         <br />
         <br />
-        At Haaga-Helia University of Applied Sciences, I completed three
-        software development projects, working with Java Spring Boot, REST APIs,
-        React, and cutting-edge AI technologies. In one project, my team
-        developed an AI-powered image recognition application under contract
-        with an organization, leveraging Gemini AI, ChatGPT API, Node.js,
-        Express.js, TypeScript, React, and Vite.
+        Currently completing my degree in Full Stack Development at Haaga-Helia
+        University of Applied Sciences, I’ve worked on projects such as a Query
+        Service and Time Management Application (using Java Spring Boot, REST,
+        React, Vite), and an AI-powered Image Recognition Application with
+        Gemini AI, ChatGPT API, Node.js, Express.js, TypeScript, React, and
+        Vite.
         <br />
-        <br />I recently started a 10–12 week internship at Innate AI as a
-        Software Developer Intern through Herizon. Having completed my
-        coursework, I am currently focused on my internship and thesis before
-        graduation. After my internship, I will be open to full-time
-        opportunities starting approximately from March 3rd.
+        <br />I am also a Full Stack Developer Intern at Innate AI through
+        Herizon. Upon finishing my internship and thesis, I’ll be available for
+        full-time positions starting March 3rd.
       </Typography>
       <br />
       <Typography
@@ -96,7 +93,7 @@ function Home() {
         variant="h4"
         fontWeight={"bold"}
         textAlign={"center"}
-        maxWidth={"1200px"}
+        maxWidth={"1000px"}
       >
         Let’s create something extraordinary together!
       </Typography>
