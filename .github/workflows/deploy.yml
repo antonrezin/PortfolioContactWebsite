@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     name: Build
-    runs-on: ubuntu-22.04 # Explicitly specify the runner version to avoid automatic updates to ubuntu-24.04
+    runs-on: ubuntu-22.04
 
     steps:
       - name: Checkout repo
@@ -23,8 +23,11 @@ jobs:
       - name: Build project
         run: npm run build
 
+      - name: List files in dist (Debugging)
+        run: ls -R ./dist
+
       - name: Upload production-ready build files
-        uses: actions/upload-artifact@v4 # Updated to v4 as per deprecation notice
+        uses: actions/upload-artifact@v4
         with:
           name: production-files
           path: ./dist
