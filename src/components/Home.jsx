@@ -71,21 +71,26 @@ function Home() {
         textAlign={"center"}
         maxWidth={"1000px"}
       >
-        A Full Stack Developer from the Helsinki Metropolitan Area, specializing
-        in creating seamless digital experiences from intuitive UIs to scalable
-        backend systems.
+        I’m an aspiring Full Stack Developer from the Helsinki Metropolitan
+        Area, passionate about crafting seamless digital experiences. I
+        specialize in building intuitive user interfaces and robust backend
+        systems, focusing on scalable and efficient solutions.
         <br />
         <br />
-        Currently completing my degree in Full Stack Development at Haaga-Helia
-        University of Applied Sciences, I’ve worked on projects such as a Query
-        Service and Time Management Application (using Java Spring Boot, REST,
-        React, Vite), and an AI-powered Image Recognition Application with
+        At Haaga-Helia University of Applied Sciences, I’ve built personal
+        software development projects and completed three team-based agile
+        software development projects, where I gained hands-on experience with
+        Java Spring Boot, REST APIs, React, Vite, and cutting-edge AI
+        technologies. In one project, my team developed an AI-powered Image
+        Recognition Application under contract with an organization, leveraging
         Gemini AI, ChatGPT API, Node.js, Express.js, TypeScript, React, and
         Vite.
         <br />
-        <br />I am also a Full Stack Developer Intern at Innate AI through
-        Herizon. Upon finishing my internship and thesis, I’ll be available for
-        full-time positions starting March 3rd.
+        <br />
+        I’m currently a Full Stack Developer Intern at Innate AI through
+        Herizon, completing a 10–12 week internship. Having finished my
+        coursework, I am now focused on my internship and thesis, and I will be
+        open to full-time Full Stack Developer opportunities starting March 3rd.
       </Typography>
       <br />
       <Typography
