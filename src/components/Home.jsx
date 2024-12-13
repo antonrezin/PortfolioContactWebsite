@@ -37,7 +37,7 @@ function Home() {
 
       <Typography
         fontFamily={"monospace"}
-        variant="h4"
+        variant="h3"
         fontWeight={"bold"}
         textAlign={"center"}
       >
@@ -59,38 +59,44 @@ function Home() {
         variant="h4"
         fontWeight={"bold"}
         textAlign={"center"}
+        maxWidth={"1200px"}
       >
-        Hi,I'm Anton Rezin!
+        Hi, I’m Anton Rezin!
       </Typography>
-
+      <br />
       <Typography
         fontFamily={"monospace"}
         variant="h5"
         fontWeight={"bold"}
         textAlign={"center"}
-        maxWidth={"1600px"}
+        maxWidth={"1200px"}
       >
-        I’m a Aspiring Full Stack Developer from the Helsinki Metropolitan Area
-        with a passion for creating seamless digital experiences.
+        I’m an aspiring Full Stack Developer from the Helsinki Metropolitan Area
+        with a passion for crafting seamless digital experiences. I specialize
+        in building intuitive user interfaces and robust backend systems,
+        focusing on scalable, efficient solutions.
         <br />
-        Whether it’s building intuitive user interfaces or developing robust
-        backend systems, I enjoy bringing ideas to life through clean, efficient
-        code.
         <br />
-        My expertise spans both backend and frontend development, allowing me to
-        create well-rounded applications that deliver exceptional user
-        experiences.
+        At Haaga-Helia University of Applied Sciences, I completed three
+        software development projects, working with Java Spring Boot, REST APIs,
+        React, and cutting-edge AI technologies. In one project, my team
+        developed an AI-powered image recognition application under contract
+        with an organization, leveraging Gemini AI, ChatGPT API, Node.js,
+        Express.js, TypeScript, React, and Vite.
         <br />
-        Currently finishing my degree in Full Stack Development, I’m eager to
-        apply my skills in real-world projects and collaborate with teams that
-        value innovation and quality.
+        <br />I recently started a 10–12 week internship at Innate AI as a
+        Software Developer Intern through Herizon. Having completed my
+        coursework, I am currently focused on my internship and thesis before
+        graduation. After my internship, I will be open to full-time
+        opportunities starting approximately from March 3rd.
       </Typography>
-
+      <br />
       <Typography
         fontFamily={"monospace"}
         variant="h4"
         fontWeight={"bold"}
         textAlign={"center"}
+        maxWidth={"1200px"}
       >
         Let’s create something extraordinary together!
       </Typography>
