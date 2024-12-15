@@ -90,7 +90,7 @@ function Home() {
         I’m currently a Full Stack Developer Intern at Innate AI through
         Herizon, completing a 10–12 week internship. Having finished my
         coursework, I am now focused on my internship and thesis, and I will be
-        open to full-time Full Stack Developer opportunities starting March 3rd.
+        open to full-time Full Stack Developer opportunities starting March 10th.
       </Typography>
       <br />
       <Typography
