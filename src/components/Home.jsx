@@ -84,7 +84,8 @@ function Home() {
         technologies. In one project, my team developed an AI-powered Image
         Recognition Application under contract with an organization, leveraging
         Gemini AI, ChatGPT API, Node.js, Express.js, TypeScript, React, and
-        Vite.
+        Vite. A certification for my participation and work on this project is
+        forthcoming.
         <br />
         <br />
         I’m currently a Full Stack Developer Intern at Innate AI through
