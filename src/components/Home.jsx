@@ -28,8 +28,8 @@ function Home() {
         alt="Anton Rezin Junior Software Developer Portfolio Website."
         style={{
           width: "100%",
-          maxWidth: "200px",
-          maxHeight: "200px",
+          maxWidth: "300px",
+          maxHeight: "300px",
           borderRadius: "50%",
           border: "5px solid #000000",
         }}
