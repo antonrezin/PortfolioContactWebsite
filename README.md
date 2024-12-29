@@ -1,8 +1,28 @@
-# React + Vite
+# Portfolio Contact Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the personal portfolio website of Anton Rezin, built with **React** and **Vite**, and styled with **Material-UI**. It showcases my skills as an aspiring Full Stack Developer and features key projects from my studies and internship. The website includes an animated background and interactive hover effects for icons to improve the user experience.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: A JavaScript library for building user interfaces.
+- **Vite**: A fast build tool and development server for React.
+- **Material-UI**: A library for pre-designed React components.
+- **JavaScript**: Language for client-side interactivity.
+- **Git** & **GitHub**: Tools for version control and collaboration.
+
+## Features
+
+- **Responsive Design**: Optimized for all devices.
+- **Animated Background**: Adds a dynamic visual effect.
+- **Icon Hover Effects**: Icons (LinkedIn and GitHub) enlarge smoothly when hovered over.
+- **Modern UI**: Clean and minimal design using Material-UI.
+
+## Live Website
+
+Check out the live website here:
+- [Portfolio Contact Website](https://antonrezin.github.io/PortfolioContactWebsite/)
+
+## Contact
+
+You can reach me on LinkedIn:
+- [LinkedIn](https://www.linkedin.com/in/antonrezin/)
