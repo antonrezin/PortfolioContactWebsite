@@ -15,6 +15,7 @@ const theme = createTheme({
     MuiPaper: {
       styleOverrides: {
         root: {
+          justifyItems: "center",
           padding: 3,
           width: "100%",
           maxWidth: "900px",
