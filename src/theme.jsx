@@ -12,6 +12,19 @@ const theme = createTheme({
         },
       },
     },
+    MuiPaper: {
+      styleOverrides: {
+        root: {
+          padding: 3,
+          width: "100%",
+          maxWidth: "900px",
+          marginTop: 4,
+          backgroundColor: "transparent",
+          border: "1px solid #3b3b3b",
+          boxShadow: "10px 10px 10px 10px rgba(0, 0, 0, 0.2)",
+        },
+      },
+    },
   },
 });
 
