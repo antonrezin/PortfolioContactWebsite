@@ -44,27 +44,22 @@ function Home() {
         Anton Rezin
       </Typography>
 
-      <hr style={{ borderColor: "#3b3b3b", width: "500px" }} />
-
       <Stack direction="row" spacing={3}>
         <Link
           href="https://www.linkedin.com/in/antonrezin/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <LinkedInIcon sx={{ fontSize: "6rem", color: "primary.main" }} />
+          <LinkedInIcon sx={{ fontSize: "8rem", color: "primary.main" }} />
         </Link>
         <Link
           href="https://github.com/antonrezin"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <GitHubIcon sx={{ fontSize: "6rem", color: "black" }} />
+          <GitHubIcon sx={{ fontSize: "8rem", color: "black" }} />
         </Link>
       </Stack>
-
-      <hr style={{ borderColor: "#3b3b3b", width: "500px" }} />
-
 
       <Typography
         fontFamily={"monospace"}
