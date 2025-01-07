@@ -249,7 +249,7 @@ function Home() {
                 rel="noopener noreferrer"
                 sx={{ textDecoration: "none", color: "primary.main" }}
               >
-                Image Recognition Application
+                Furniture Image Recognition Application
               </Link>
               <br />
               Developed with Node.js with Express.js, React with Vite,
