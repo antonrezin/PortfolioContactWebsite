@@ -79,7 +79,7 @@ function Home() {
       <Paper>
         <Typography
           fontFamily={"monospace"}
-          variant="h5"
+          variant="h6"
           fontWeight={"bold"}
           textAlign={"center"}
           maxWidth={"800px"}
@@ -117,7 +117,7 @@ function Home() {
       <Paper>
         <Typography
           fontFamily={"monospace"}
-          variant="h5"
+          variant="h6"
           textAlign={"center"}
           maxWidth={"800px"}
         >
@@ -143,7 +143,7 @@ function Home() {
       <Paper>
         <Typography
           fontFamily={"monospace"}
-          variant="h5"
+          variant="h6"
           textAlign={"center"}
           maxWidth={"800px"}
         >
@@ -164,7 +164,7 @@ function Home() {
         <br />
         <Typography
           fontFamily={"monospace"}
-          variant="h5"
+          variant="h6"
           textAlign={"center"}
           maxWidth={"800px"}
         >
@@ -199,7 +199,7 @@ function Home() {
           <ListItem>
             <Typography
               fontFamily={"monospace"}
-              variant="h5"
+              variant="h6"
               textAlign={"center"}
               maxWidth={"800px"}
             >
@@ -219,7 +219,7 @@ function Home() {
           <ListItem>
             <Typography
               fontFamily={"monospace"}
-              variant="h5"
+              variant="h6"
               textAlign={"center"}
               maxWidth={"800px"}
             >
@@ -239,7 +239,7 @@ function Home() {
           <ListItem>
             <Typography
               fontFamily={"monospace"}
-              variant="h5"
+              variant="h6"
               textAlign={"center"}
               maxWidth={"800px"}
             >
@@ -261,7 +261,7 @@ function Home() {
         <br />
         <Typography
           fontFamily={"monospace"}
-          variant="h5"
+          variant="h6"
           textAlign={"center"}
           maxWidth={"800px"}
         >
@@ -286,7 +286,7 @@ function Home() {
       <Paper>
         <Typography
           fontFamily={"monospace"}
-          variant="h5"
+          variant="h6"
           textAlign={"center"}
           maxWidth={"800px"}
         >
@@ -298,7 +298,7 @@ function Home() {
         <br />
         <Typography
           fontFamily={"monospace"}
-          variant="h5"
+          variant="h6"
           textAlign={"center"}
           maxWidth={"800px"}
         >
