@@ -44,7 +44,7 @@ function Home() {
         Anton Rezin
       </Typography>
 
-      <hr style={{ borderColor: "#000000", width: "500px" }} />
+      <hr style={{ borderColor: "#3b3b3b", width: "500px" }} />
 
       <Stack direction="row" spacing={3}>
         <Link
@@ -63,7 +63,7 @@ function Home() {
         </Link>
       </Stack>
 
-      <hr style={{ borderColor: "#000000", width: "500px" }} />
+      <hr style={{ borderColor: "#3b3b3b", width: "500px" }} />
 
 
       <Typography
