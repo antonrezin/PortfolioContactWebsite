@@ -50,14 +50,14 @@ function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <LinkedInIcon sx={{ fontSize: "8rem", color: "primary.main" }} />
+          <LinkedInIcon sx={{ fontSize: "10rem", color: "primary.main" }} />
         </Link>
         <Link
           href="https://github.com/antonrezin"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <GitHubIcon sx={{ fontSize: "8rem", color: "black" }} />
+          <GitHubIcon sx={{ fontSize: "10rem", color: "black" }} />
         </Link>
       </Stack>
 
