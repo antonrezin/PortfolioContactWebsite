@@ -81,19 +81,35 @@ function Home() {
         >
           Hi, I’m Anton Rezin!
         </Typography>
-
+        <br />
         <Typography
           fontFamily={"monospace"}
           variant="h6"
           textAlign={"center"}
           maxWidth={"800px"}
         >
-          I’m an aspiring Full Stack Developer based in the Helsinki
-          Metropolitan Area, passionate about crafting seamless digital
-          experiences. As a Full Stack Developer Intern at Innate AI through
-          Herizon, I have honed my skills and deepened my commitment to software
-          development. I thrive in innovative and dynamic environments where I
-          can contribute and grow both professionally and personally.
+          I am an aspiring Full Stack Developer based in the Helsinki
+          Metropolitan Area, focused on creating high-quality digital solutions
+          that blend creativity and functionality.
+          <br />
+          <br />
+          With a solid foundation in front-end and back-end technologies, I
+          strive to build intuitive, user-friendly applications that solve
+          real-world challenges.
+          <br />
+          <br />
+          After completing the Herizon bootcamp, I am currently gaining hands-on
+          experience as a Full Stack Developer Intern at Innate AI, expanding my
+          expertise in modern software development.
+          <br />
+          <br />
+          I am eager to continue growing professionally, tackle new
+          challenges, and contribute to impactful projects.
+          <br />
+          <br />
+          I am immediately
+          available for full-time opportunities where I can apply my skills and
+          continue to develop as a developer.
         </Typography>
       </Paper>
 
