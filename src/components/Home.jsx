@@ -131,7 +131,7 @@ function Home() {
           maxWidth={"800px"}
         >
           Java, Spring Framework, Spring Boot, Maven, React, React Native, Vite,
-          Node.js, Express.js, TypeScript, npm, DevOps, Linux, Ubuntu, Docker,
+          NodeJS, Express.js, TypeScript, npm, DevOps, Linux, Ubuntu, Docker,
           SQL, Git, Bash, CI/CD, GitHub Actions, JUnit, Jest, Jenkins, REST,
           Python, HTML, CSS, JavaScript, Material-UI, Bootstrap, Agile, Scrum,
           Kanban, and Amazon Web Services (AWS).
@@ -220,7 +220,7 @@ function Home() {
                 Furniture Image Recognition Application
               </Link>
               <br />
-              Developed with Node.js with Express.js, React with Vite,
+              Developed with NodeJS with Express.js, React with Vite,
               TypeScript, REST APIs, Git, npm, Google Gemini AI, ChatGPT API,
               Material-UI
             </Typography>
