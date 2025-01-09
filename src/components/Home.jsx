@@ -103,13 +103,11 @@ function Home() {
           expertise in modern software development.
           <br />
           <br />
-          I am eager to continue growing professionally, tackle new
-          challenges, and contribute to impactful projects.
+          I am eager to continue growing professionally, tackle new challenges,
+          and contribute to impactful projects.
           <br />
-          <br />
-          I am immediately
-          available for full-time opportunities where I can apply my skills and
-          continue to develop as a developer.
+          <br />I am immediately available for full-time opportunities where I
+          can apply my skills and continue to develop as a developer.
         </Typography>
       </Paper>
 
@@ -159,7 +157,7 @@ function Home() {
           maxWidth={"800px"}
         >
           <Link
-            href="https://drive.google.com/file/d/1qzUB64oJix9TukqWtRzGbI_Y1kaxQhiO/view"
+            href="https://www.credly.com/go/nuNjdbA3"
             target="_blank"
             rel="noopener noreferrer"
             sx={{
@@ -168,8 +166,7 @@ function Home() {
               color: "primary.main",
             }}
           >
-            Furniture Image Recognition Application - Certificate of
-            Participation
+            AWS Academy Cloud Foundations
           </Link>
         </Typography>
         <br />
@@ -180,7 +177,7 @@ function Home() {
           maxWidth={"800px"}
         >
           <Link
-            href="https://www.credly.com/go/nuNjdbA3"
+            href="https://drive.google.com/file/d/1qzUB64oJix9TukqWtRzGbI_Y1kaxQhiO/view"
             target="_blank"
             rel="noopener noreferrer"
             sx={{
@@ -189,7 +186,7 @@ function Home() {
               color: "primary.main",
             }}
           >
-            AWS Academy Graduate - AWS Academy Cloud Foundations
+            Furniture Image Recognition Project
           </Link>
         </Typography>
       </Paper>
@@ -215,16 +212,17 @@ function Home() {
               maxWidth={"800px"}
             >
               <Link
-                href="https://github.com/orgs/EkaTiimi/repositories"
+                href="https://kalustebottifrontend-arvolaskuri-demo.2.rahtiapp.fi/"
                 target="_blank"
                 rel="noopener noreferrer"
                 sx={{ textDecoration: "none", color: "primary.main" }}
               >
-                Query Service
+                Furniture Image Recognition Application
               </Link>
               <br />
-              Developed using Java, Spring Framework, Spring Boot, React with
-              Vite, REST APIs, Git, npm, Material-UI.
+              Developed with Node.js with Express.js, React with Vite,
+              TypeScript, REST APIs, Git, npm, Google Gemini AI, ChatGPT API,
+              Material-UI
             </Typography>
           </ListItem>
           <ListItem>
@@ -255,17 +253,16 @@ function Home() {
               maxWidth={"800px"}
             >
               <Link
-                href="https://kalustebottifrontend-arvolaskuri-demo.2.rahtiapp.fi/"
+                href="https://github.com/orgs/EkaTiimi/repositories"
                 target="_blank"
                 rel="noopener noreferrer"
                 sx={{ textDecoration: "none", color: "primary.main" }}
               >
-                Furniture Image Recognition Application
+                Query Service
               </Link>
               <br />
-              Developed with Node.js with Express.js, React with Vite,
-              TypeScript, REST APIs, Git, npm, Google Gemini AI, ChatGPT API,
-              Material-UI
+              Developed using Java, Spring Framework, Spring Boot, React with
+              Vite, REST APIs, Git, npm, Material-UI.
             </Typography>
           </ListItem>
         </List>
