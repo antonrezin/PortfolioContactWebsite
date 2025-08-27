@@ -299,7 +299,7 @@ function Home() {
               maxWidth={"800px"}
             >
               <Link
-                href="https://kalustebottifrontend-arvolaskuri-demo.2.rahtiapp.fi/"
+                href="https://arvolaskuri-alyakokeilut.2.rahtiapp.fi"
                 target="_blank"
                 rel="noopener noreferrer"
                 sx={{ textDecoration: "none", color: "blue" }}
