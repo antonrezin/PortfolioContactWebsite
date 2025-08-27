@@ -157,14 +157,14 @@ function Home() {
               <strong>Frontend:</strong>
             </Typography>
             <Typography>
-              JavaScript (ES6+), TypeScript, React, HTML, CSS, Material-UI,
+              • JavaScript (ES6+), TypeScript, React, HTML, CSS, Material-UI,
               Bootstrap
             </Typography>
             <br />
             <Typography>
               <strong>Testing:</strong>
             </Typography>
-            <Typography>JUnit, Jest</Typography>
+            <Typography>• JUnit, Jest</Typography>
           </Grid>
 
           {/* Backend + Tools */}
@@ -172,12 +172,14 @@ function Home() {
             <Typography>
               <strong>Backend:</strong>
             </Typography>
-            <Typography>Java, Spring Boot, Spring Framework, Python</Typography>
+            <Typography>
+              • Java, Spring Boot, Spring Framework, Python
+            </Typography>
             <br />
             <Typography>
               <strong>Tools:</strong>
             </Typography>
-            <Typography>Git, Docker, Bash, Maven</Typography>
+            <Typography>• Git, Docker, Bash, Maven</Typography>
           </Grid>
 
           {/* APIs & Databases + Methods + Cloud */}
@@ -185,21 +187,21 @@ function Home() {
             <Typography>
               <strong>APIs & Databases:</strong>
             </Typography>
-            <Typography>REST APIs, SQL, H2 Database, Axios/fetch</Typography>
+            <Typography>• REST APIs, SQL, H2 Database, Axios/fetch</Typography>
             <br />
             <Typography>
               <strong>Methods:</strong>
             </Typography>
-            <Typography>Agile, Scrum</Typography>
+            <Typography>• Agile, Scrum</Typography>
             <br />
             <Typography>
               <strong>Cloud:</strong>
             </Typography>
             <Typography>
-              Google Cloud Platform (GCP) — Identity and Access Management
+              • Google Cloud Platform (GCP) — Identity and Access Management
               (IAM), Virtual Private Cloud (VPC), Compute Engine, Google
-              Kubernetes Engine (GKE), Cloud SQL, Monitoring, Load Balancing ,
-              Amazon Web Services (AWS) — Academy Cloud Foundations
+              Kubernetes Engine (GKE), Cloud SQL, Monitoring, Load Balancing
+              <br />• Amazon Web Services (AWS) — Academy Cloud Foundations
             </Typography>
           </Grid>
         </Grid>
@@ -333,10 +335,9 @@ function Home() {
               • Developed a full-stack CRUD application with React frontend and
               Spring Boot backend.
               <br />
-              •Built and consumed REST APIs for data operations. •Used SQL (H2
+              • Built and consumed REST APIs for data operations. •Used SQL (H2
               Database) for persistence.
-              <br />
-              •Tech: Java, Spring Boot, React (Vite), REST APIs, Git,
+              <br />• Tech: Java, Spring Boot, React (Vite), REST APIs, Git,
               Material-UI.
             </Typography>
           </ListItem>
