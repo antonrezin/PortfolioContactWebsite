@@ -364,7 +364,7 @@ function Home() {
               • Implemented a RESTful (Representational State Transfer) API for
               frontendbackend communication.
               <br />• Tech: Java, Spring Boot, React (Vite), REST APIs, Git,
-              Material-UI.
+              Material-UI..
             </Typography>
           </ListItem>
         </List>
