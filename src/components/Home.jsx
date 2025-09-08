@@ -301,7 +301,7 @@ function Home() {
               maxWidth={"800px"}
             >
               <Link
-                href="https://arvolaskuri-alyakokeilut.2.rahtiapp.fi"
+                href="https://github.com/team-alya"
                 target="_blank"
                 rel="noopener noreferrer"
                 sx={{ textDecoration: "none", color: "blue" }}
